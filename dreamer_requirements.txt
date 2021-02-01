@@ -2,7 +2,7 @@ numpy==1.16.4
 matplotlib
 tensorflow-gpu==2.1.0
 tensorflow_probability==0.9.0
-git+git://github.com/deepmind/dm_control.git
+dm_control
 pandas
 gym==0.17.3
 pybullet
